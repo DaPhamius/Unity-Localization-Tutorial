@@ -1,0 +1,2 @@
+welcome=Hallo und willkommen zu diesem Video.
+long_text=Ich teile \nmeine Sätze gerne\n in Zeilen.

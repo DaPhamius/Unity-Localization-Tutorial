@@ -1,0 +1,2 @@
+welcome=Hej og velkommen til denne video.
+long_text=Jeg kan godt lide \nat dele mine sætninger op \ i linier.

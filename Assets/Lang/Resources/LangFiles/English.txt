@@ -1,0 +1,2 @@
+welcome=Hello and welcome to this video.
+long_text=I like to divide \nmy sentences up \nin lines.
